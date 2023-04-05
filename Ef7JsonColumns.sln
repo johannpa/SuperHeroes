@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ef7JsonColumns", "Ef7JsonColumns\Ef7JsonColumns.csproj", "{0DACE669-E854-4FB9-B0BD-CDDC2B9EF0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DACE669-E854-4FB9-B0BD-CDDC2B9EF0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DACE669-E854-4FB9-B0BD-CDDC2B9EF0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DACE669-E854-4FB9-B0BD-CDDC2B9EF0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DACE669-E854-4FB9-B0BD-CDDC2B9EF0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D368B128-DCDB-4F39-BADF-8A8A6BF65E8A}
+	EndGlobalSection
+EndGlobal
